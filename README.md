@@ -25,9 +25,7 @@ Este proyecto fue maquetado principalmente con [Create React App](https://github
 Permite agregar y editar mediante el uso de un mismo formulario , se crea una tabla dinamicamente.
 
 
-### Navegando el Sitio
 
-![](crud react.gif)
 
 # Creditos
 
