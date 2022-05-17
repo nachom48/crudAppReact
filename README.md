@@ -27,7 +27,7 @@ Permite agregar y editar mediante el uso de un mismo formulario , se crea una ta
 
 ### Navegando el Sitio
 
-![](crudAppReact/crud react.gif)
+![](crud react.gif)
 
 # Creditos
 
